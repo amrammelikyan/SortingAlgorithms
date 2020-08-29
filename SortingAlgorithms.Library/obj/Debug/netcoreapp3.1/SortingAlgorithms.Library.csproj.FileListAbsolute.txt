@@ -1,0 +1,8 @@
+C:\Users\Amram\source\repos\SortingAlgorithms\SortingAlgorithms.Library\bin\Debug\netcoreapp3.1\SortingAlgorithms.Library.deps.json
+C:\Users\Amram\source\repos\SortingAlgorithms\SortingAlgorithms.Library\bin\Debug\netcoreapp3.1\SortingAlgorithms.Library.dll
+C:\Users\Amram\source\repos\SortingAlgorithms\SortingAlgorithms.Library\bin\Debug\netcoreapp3.1\SortingAlgorithms.Library.pdb
+C:\Users\Amram\source\repos\SortingAlgorithms\SortingAlgorithms.Library\obj\Debug\netcoreapp3.1\SortingAlgorithms.Library.AssemblyInfoInputs.cache
+C:\Users\Amram\source\repos\SortingAlgorithms\SortingAlgorithms.Library\obj\Debug\netcoreapp3.1\SortingAlgorithms.Library.AssemblyInfo.cs
+C:\Users\Amram\source\repos\SortingAlgorithms\SortingAlgorithms.Library\obj\Debug\netcoreapp3.1\SortingAlgorithms.Library.dll
+C:\Users\Amram\source\repos\SortingAlgorithms\SortingAlgorithms.Library\obj\Debug\netcoreapp3.1\SortingAlgorithms.Library.pdb
+C:\Users\Amram\source\repos\SortingAlgorithms\SortingAlgorithms.Library\obj\Debug\netcoreapp3.1\SortingAlgorithms.Library.csprojAssemblyReference.cache
